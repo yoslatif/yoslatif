@@ -17,6 +17,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+- ♟️ Chess Fanatic
+- 🎹 Music Maker
+- 🏀 Spot Up 3 Point Shooter
+
 - 🔭 I’m currently working on continuing to flesh out Philsophize
 - 🌱 I’m currently learning Google Maps integration
 - 👯 I’m looking to collaborate on creating things the world has never seen before
