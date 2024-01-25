@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="150"/>
 </div>
 
-## Salaamualaikum 🫡 
-## I am Yoseph
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/yoseph-latif/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,6 +10,16 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+## Salaamualaikum 🫡 
+## I am Yoseph
+
 
 <!--
 **yoslatif/yoslatif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
