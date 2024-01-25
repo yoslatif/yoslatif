@@ -17,7 +17,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
+- 🔭 I’m currently working on continuing to flesh out Philsophize
+- 🌱 I’m currently learning Google Maps integration
+- 👯 I’m looking to collaborate on creating things the world has never seen before
+- 💬 Ask me about coffee recommendations
 
 <!--
 **yoslatif/yoslatif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
