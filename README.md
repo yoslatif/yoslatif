@@ -5,6 +5,14 @@
 ## Salaamualaikum 🫡 
 ## I am Yoseph
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yoseph-latif/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/yosdefinitely/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
 <!--
 **yoslatif/yoslatif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
